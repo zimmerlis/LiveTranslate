@@ -1,0 +1,7 @@
+{
+  "name": "Live Real-time Translator",
+  "description": "A sophisticated real-time translation app that captures German speech and translates it into multiple languages with a side-by-side scrolling view.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
