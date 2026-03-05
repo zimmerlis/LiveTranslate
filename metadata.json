@@ -1,6 +1,6 @@
 {
-  "name": "Live Real-time Translator",
-  "description": "A sophisticated real-time translation app that captures German speech and translates it into multiple languages with a side-by-side scrolling view.",
+  "name": "CHURCH TRANSLATE",
+  "description": "Ein hochentwickelter Echtzeit-Übersetzungsdienst für Live-Streams, der deutsche Sprache erfasst und in mehrere Sprachen übersetzt.",
   "requestFramePermissions": [
     "microphone"
   ]
